@@ -74,7 +74,6 @@ Ce projet stocke les événements Kafka dans **HDFS** à l'aide de **Kafka Conne
 
 ## 🛠 Technologies utilisées
 - **Apache Kafka 3.7.2** 🚀
-- **Scala 2.13.12** 🛠️
 - **Hadoop** 🏗️
 - **PySpark** 🔥
 - **Google Colab** ⚡
