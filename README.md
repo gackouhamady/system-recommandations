@@ -18,7 +18,7 @@ Ce projet implémente un système de recommandation en temps réel pour une plat
 ### 1️⃣ Installation de Kafka
 ```sh
 # Cloner le projet
-git clone https://github.com//system-recommandations.git
+git clone https://github.com/gackouhamady/system-recommandations.git
 
 # Compiler Kafka (si non pré-compilé)
 cd kafka-3.7.2-src
