@@ -80,7 +80,7 @@ Ce projet stocke les événements Kafka dans **HDFS** à l'aide de **Kafka Conne
 - **Google Colab** ⚡
 
 ## 📌 Auteurs
-- [Votre Nom](https://github.com/votre-profil)
+- [Hamady GACKOU](https://github.com/gackouhamady)
 
 ## 📜 Licence
 Ce projet est sous licence libre  ,  par ailleurs je ne suis responsable d'aucune  utilisation en  production
