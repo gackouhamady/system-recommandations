@@ -9,6 +9,8 @@
 [![HDFS Integration](https://img.shields.io/badge/HDFS-integrated-blueviolet.svg)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/)
 [![GitHub Repo](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/gackouhamady/system-recommandations)
 
+
+- [Real-Time Recommendation System with Apache Kafka and Hadoop](#real-time-recommendation-system-with-apache-kafka-and-hadoop)
 - [Description](#description)
 - [Project Structure](#project-structure)
 - [Installation & Configuration](#installation--configuration)
