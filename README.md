@@ -28,7 +28,7 @@
 This project implements a real-time recommendation system for a streaming platform, using **Apache Kafka** for real-time event processing and **Hadoop** for data storage.
 
 
-## ## Project Structure
+##  Project Structure
 ```
 ├── kafka-3.7.2-src/ # Kafka source code (to be compiled)
 ├── kafka_2.13-3.7.2/ # Kafka binary distribution (after compilation)
