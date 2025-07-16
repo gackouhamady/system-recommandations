@@ -11,19 +11,19 @@
 
 
 - [Real-Time Recommendation System with Apache Kafka and Hadoop](#real-time-recommendation-system-with-apache-kafka-and-hadoop)
-- [Description](#description)
-- [Project Structure](#project-structure)
-- [Installation & Configuration](#installation--configuration)
-  - [Installation of Kafka](#installation-of-kafka)
-  - [Start Zookeeper and Kafka](#start-zookeeper-and-kafka)
-  - [Creating a Kafka Topic](#creating-a-kafka-topic)
-  - [Checking Kafka Topics](#checking-kafka-topics)
-  - [Producing and Consuming Messages](#producing-and-consuming-messages)
-- [Integration with Hadoop](#integration-with-hadoop)
-- [Project Goals](#project-goals)
-- [Technologies Used](#technologies-used)
-- [Authors](#authors)
-- [License](#license)
+    - [Description](#description)
+    - [Project Structure](#project-structure)
+    - [Installation & Configuration](#installation--configuration)
+      - [Installation of Kafka](#installation-of-kafka)
+      - [Start Zookeeper and Kafka](#start-zookeeper-and-kafka)
+      - [Creating a Kafka Topic](#creating-a-kafka-topic)
+      - [Checking Kafka Topics](#checking-kafka-topics)
+      - [Producing and Consuming Messages](#producing-and-consuming-messages)
+    - [Integration with Hadoop](#integration-with-hadoop)
+    - [Project Goals](#project-goals)
+    - [Technologies Used](#technologies-used)
+    - [Authors](#authors)
+    - [License](#license)
 
 
 ## Description
